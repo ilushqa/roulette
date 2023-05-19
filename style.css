@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    padding: 100px;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font: 16px 'Segoe UI', Arial, Helvetica, sans-serif;
+    background: #f3f3f3;
+    margin: 0 auto;
+}
+
+div{
+    margin: 0 auto;
+    max-width: 360px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+canvas {
+    image-rendering: pixelated;
+    width: 500px;
+    height: 200px;
+}
