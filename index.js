@@ -117,6 +117,8 @@ const update = () => {
     }
 };
 
+const btn = document.querySelector("button")
+
 const init = async () => {
     [canvas.width, canvas.height] = [IMAGE_WIDTH * IMAGE_COUNT, IMAGE_HEIGHT];
     
@@ -131,7 +133,7 @@ const init = async () => {
     console.log(images);
     console.groupEnd();
     
-    canvas.addEventListener('click', event => {
+    btn.addEventListener('click', event => {
         event.preventDefault();
         
         if (speed === 0 && offset === 0) {
