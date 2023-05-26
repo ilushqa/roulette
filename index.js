@@ -23,7 +23,8 @@ const imageUrls = [
     'https://sun9-71.userapi.com/impg/tLDcz5uYRmtBN9lxxdMsioZCRpUVWTAItC4_hQ/8dRX31ImxOc.jpg?size=159x182&quality=96&sign=9196a5b20aac98bf609bd7b303244a65&type=album',
     'https://sun9-58.userapi.com/impg/7YUqt0Fd6NpWTAZ_o1dw6EHnUmVxINrP1a-o9A/VUEBjRuh7XY.jpg?size=111x143&quality=96&sign=0aefcb6c6204d46edfd1a431919ad109&type=album',
     'https://sun9-51.userapi.com/impg/1zqfrn9Mtwo-7r8mSVbkPg9t7jO-Unv1tLCxyg/WU61ZRV87CA.jpg?size=322x428&quality=95&sign=9dedde9d3e0971d78fac7c94780d5422&type=album',
-    'https://sun9-8.userapi.com/impg/Fjdhf0QlELKEiUhY-Q5BoxkX9-USJ4iAnX9r3w/WI81G4OvfIk.jpg?size=199x139&quality=96&sign=7b71c2244892e88f56a71c40f8cc448a&type=album'
+    'https://sun9-8.userapi.com/impg/Fjdhf0QlELKEiUhY-Q5BoxkX9-USJ4iAnX9r3w/WI81G4OvfIk.jpg?size=199x139&quality=96&sign=7b71c2244892e88f56a71c40f8cc448a&type=album',
+    'https://sun9-8.userapi.com/impg/sWo4UgIO8-GC0Rfrfm0tlkgbdma1jxsoofeBUg/f3icXDlIr_8.jpg?size=632x820&quality=96&sign=ee1222d29c7c2e69ccad4f1c498d248d&type=album'
 ];
 let speed = 0;
 let state = STATE.RETURN;
